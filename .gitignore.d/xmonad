@@ -1,0 +1,6 @@
+*
+!.gitignore.d
+!.gitignore.d/xmonad
+!.xinitrc
+!.xmonad
+!.xmonad/xmonad.hs
